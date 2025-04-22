@@ -1,9 +1,8 @@
 # 💫 About Me
 
-👋 Hey! I'm a **Software & Machine Learning Engineer** at **[Atatus](https://www.atatus.com/)**  
-🌱 Currently diving deep into **Machine Learning** and **Agentic AI**  
-🌍 Based in **Chennai, India**  
-💡 I love building smart systems and learning new tech every day
+I am a **Software and Machine Learning Engineer** at **[Atatus](https://www.atatus.com/)** with a strong interest in building scalable, intelligent systems.  
+My current focus is on advancing my knowledge in **Machine Learning** and exploring developments in **Agentic AI**.  
+I am based in **Chennai, India**, and passionate about solving real-world problems through data-driven solutions and efficient system design.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikram.guru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guru-vikram-009187228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guruvikram886@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/guru_vikram/)
