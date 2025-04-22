@@ -1,15 +1,16 @@
-# 💫 About Me
+# About Me
 
 I am a **Software and Machine Learning Engineer** at **[Atatus](https://www.atatus.com/)** with a strong interest in building scalable, intelligent systems.  
 My current focus is on advancing my knowledge in **Machine Learning** and exploring developments in **Agentic AI**.  
 I am based in **Chennai, India**, and passionate about solving real-world problems through data-driven solutions and efficient system design.
 
-## 🚀 Key Areas of Focus:
-- **Machine Learning**: Continuously enhancing expertise in algorithms, models, and data preprocessing
-- **Agentic AI**: Researching and applying autonomous AI systems to real-world challenges
-- **Scalable Systems**: Designing high-performance, reliable systems capable of handling large-scale data
-- **Data-Driven Solutions**: Leveraging analytics to drive business and technical decision-making
-- **System Architecture**: Building efficient, maintainable, and modular system designs
+## Key Areas of Focus:
+- **Machine Learning**: Developing expertise in algorithms, models, and data preprocessing
+- **Agentic AI**: Exploring the application of autonomous AI systems to real-world challenges
+- **Scalable Systems**: Designing reliable, high-performance systems capable of managing large-scale data
+- **Data-Driven Solutions**: Applying analytics to guide business and technical decisions
+- **System Architecture**: Building maintainable, efficient, and modular system architectures
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikram.guru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guru-vikram-009187228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guruvikram886@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/guru_vikram/)
