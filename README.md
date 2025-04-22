@@ -1,8 +1,10 @@
 # 💫 About Me
 
-🚀 Currently working as a **Software & Machine Learning Engineer** at **Atatus**  
-🧠 Exploring the world of **Machine Learning** and **Agentic AI**  
-🌱 Always learning, building, and experimenting with new tech
+Hi there! 👋 I'm currently working as a **Software & Machine Learning Engineer** at **[Atatus](https://www.atatus.com/)**  
+- 🧠 Learning: **Machine Learning**, **Agentic AI**  
+- 💡 Passionate about building intelligent, efficient systems  
+- 📍 Based in: 🌍 Earth (for now...)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikram.guru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guru-vikram-009187228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guruvikram886@gmail.com) 
